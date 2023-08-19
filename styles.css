@@ -16,7 +16,6 @@ body {
     background: url('assets/landscape.jpg') no-repeat;
     background-size: cover;
     background-position: center;
-    cursor:vertical-text;
 }
 
 .wrapper {
